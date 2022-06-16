@@ -1,0 +1,22 @@
+[
+	{
+		"resource": "Microsoft Graph",
+		"delegated": [
+			"User.Read",
+			"Tasks.Read",
+			"Tasks.Read.Shared",
+			"Tasks.ReadWrite",
+			"Tasks.ReadWrite.Shared",
+			"Group.Read.All",
+			"Directory.Read.All",
+			"Notes.Read",
+			"Notes.Read.All",
+			"Notes.ReadWrite",
+			"Notes.ReadWrite.All",
+			"Group.ReadWrite.All",
+			"GroupMember.ReadWrite.All",
+			"GroupMember.ReadWrite.All"
+		],
+		"application": []
+	}
+]
